@@ -1,5 +1,5 @@
 # Outer loop
-for i in range(65,70):
+for i in range(65,70):    #using AIISC code (65=A)
     # Inner loop
     for j in range(i,64,-1):
         print(chr(j),end="")
